@@ -2,7 +2,10 @@
 <component type="desktop">
   <id>com.endlessnetwork.MidnightmareTeddy</id>
   <name>Midnightmare Teddy</name>
-  <developer_name>Endless Network</developer_name>
+  <developer_name>Endless Studios</developer_name>
+  <developer id="com.endlessnetwork">
+    <name>Endless Studios</name>
+  </developer>
   <summary>Shoot and survive</summary>
   <project_license>LicenseRef-proprietary</project_license>
   <metadata_license>CC0-1.0</metadata_license>
