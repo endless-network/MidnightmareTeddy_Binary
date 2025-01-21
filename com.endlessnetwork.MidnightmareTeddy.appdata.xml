@@ -8,8 +8,9 @@
   <metadata_license>CC0-1.0</metadata_license>
   <url type="homepage">https://terminaltwo.com/</url>
   <categories>
-    <category>LearnToCode</category>
     <category>Game</category>
+    <category>Education</category>
+    <category>Shooter</category>
   </categories>
   <launchable type="desktop-id">com.endlessnetwork.MidnightmareTeddy.desktop</launchable>
   <description>
