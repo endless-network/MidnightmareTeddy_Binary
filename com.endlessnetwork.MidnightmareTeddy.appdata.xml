@@ -7,7 +7,7 @@
     <name>Endless Studios</name>
   </developer>
   <summary>Shoot and survive</summary>
-  <project_license>LicenseRef-proprietary</project_license>
+  <project_license>LicenseRef-proprietary=https://github.com/endless-network/MidnightmareTeddy_Binary/raw/refs/heads/master/LICENSE</project_license>
   <metadata_license>CC0-1.0</metadata_license>
   <url type="homepage">https://terminaltwo.com/</url>
   <categories>
